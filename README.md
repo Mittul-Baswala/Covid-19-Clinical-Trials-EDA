@@ -44,5 +44,3 @@ The analysis was performed in the accompanying Jupyter Notebook: **`covid-19 cli
 - **Pandas** → Data manipulation & cleaning  
 - **NumPy** → Numerical operations  
 - **Matplotlib & Seaborn** → Data visualization  
-
----ps://github.com/yourusername/covid19-clinical-trials-eda.git
